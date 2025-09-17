@@ -1,10 +1,5 @@
-
-# Staff Banking Front-End (HTML + CSS only)
-
-This is a **complete, responsive front-end** for a banking **staff-only** panel. It uses only **HTML + CSS** (with **Bootstrap 5** and **Font Awesome** via CDN). No custom JavaScript is used.
-
 ## Pages
-- index.html — Login
+- login.html — Login
 - signup.html — Employee Registration
 - dashboard.html — Dashboard
 - customers-add.html — Add Customer
